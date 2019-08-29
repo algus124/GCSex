@@ -88,7 +88,6 @@ public class ControlApi extends Api {
 
     /**
      * Instructs the vehicle to go to the specified location.
-     *
      * @param point    target location
      * @param force    true to enable guided mode is required.
      * @param listener Register a callback to receive update of the command execution state.
